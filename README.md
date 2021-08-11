@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SangJin Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SangJinChoi&fontSize=90)
 ### Hi there 👋
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinCHOI&layout=compact)](https://github.com/sangjinCHOI/github-readme-stats) ![SangJin's github stats](https://github-readme-stats.vercel.app/api?username=sangjinCHOI&show_icons=true&hide_border=true)
