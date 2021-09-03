@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SangJinChoi&fontSize=90)
-### Hi there 👋
-
+### 👋 Hi there 
+### 🌱 I’m currently learning python and web
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjinCHOI&layout=compact)](https://github.com/sangjinCHOI/github-readme-stats) ![SangJin's github stats](https://github-readme-stats.vercel.app/api?username=sangjinCHOI&show_icons=true&hide_border=true)
 
 
@@ -10,7 +10,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
