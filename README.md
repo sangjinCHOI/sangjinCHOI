@@ -4,7 +4,7 @@
 ## 🌱 About Me
 |**활동**|**기간**|**활동내용**|
 |:---:|:---:|:---:|
-|Dongguk Univ.|2015.03~2019.02|Industrial Systems Engineering & Infomation Communication Enginerring|
+|Dongguk Univ.|2015.03~2019.02|Industrial Systems Engineering & Information Communication Engineering|
 |ROKA Officer|2019.03~2021.06|First Lieutenant|
 |Samsung SW Academy For Youth|2021.07~|SSAFY 6기|
 <br/>
